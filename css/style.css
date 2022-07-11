@@ -1,0 +1,42 @@
+body
+{ 
+    list-style-position:inside;
+    background-color: black;
+    color: white;
+    text-align:center;
+    font-family: 'Indie Flower', cursive;
+    
+}
+.menu
+{
+    list-style:none;
+    display: block;
+}
+.menu li
+{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+a
+{
+font-size: 30px;
+color: white;
+}
+address
+{
+    font-size: 30px;
+    color: white;
+}
+ul
+{
+list-style-type: none;
+}
+.fs-25
+{
+    font-size: 25;
+}
+.fs-30
+{
+    font-size: 30;
+}
